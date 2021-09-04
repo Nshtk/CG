@@ -1,0 +1,10 @@
+C:\Users\Root\Documents\Labs\MP\CompGraph2\bin\Debug\CompGraph2.exe.config
+C:\Users\Root\Documents\Labs\MP\CompGraph2\bin\Debug\CompGraph2.exe
+C:\Users\Root\Documents\Labs\MP\CompGraph2\bin\Debug\CompGraph2.pdb
+C:\Users\Root\Documents\Labs\MP\CompGraph2\obj\Debug\CompGraph2.csproj.AssemblyReference.cache
+C:\Users\Root\Documents\Labs\MP\CompGraph2\obj\Debug\CompGraph2.Form1.resources
+C:\Users\Root\Documents\Labs\MP\CompGraph2\obj\Debug\CompGraph2.Properties.Resources.resources
+C:\Users\Root\Documents\Labs\MP\CompGraph2\obj\Debug\CompGraph2.csproj.GenerateResource.cache
+C:\Users\Root\Documents\Labs\MP\CompGraph2\obj\Debug\CompGraph2.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\Labs\MP\CompGraph2\obj\Debug\CompGraph2.exe
+C:\Users\Root\Documents\Labs\MP\CompGraph2\obj\Debug\CompGraph2.pdb
