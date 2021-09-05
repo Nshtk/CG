@@ -102,16 +102,12 @@ namespace CompGraph2
         private void applyNegativeFilter()
         {
             Color pixel;
-            int r, g, b;
             for(int i=0; i<image.Width; i++)
             {
                 for(int j=0; j<image.Height; j++)
                 {
                     pixel=image.GetPixel(i, j);
-                    r = 255 - pixel.R;
-                    g = 255 - pixel.G;
-                    b = 255 - pixel.B;
-                    image.SetPixel(i, j, Color.FromArgb(255, r, g, b));
+                    image.SetPixel(i, j, Color.FromArgb(255, 255 - pixel.R, 255 - pixel.G, 255 - pixel.B));
                 }
             }
         }
