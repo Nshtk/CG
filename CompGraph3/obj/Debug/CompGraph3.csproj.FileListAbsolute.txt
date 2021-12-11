@@ -1,0 +1,10 @@
+C:\Users\Root\Documents\Labs\MP\CompGraph3\bin\Debug\CompGraph3.exe.config
+C:\Users\Root\Documents\Labs\MP\CompGraph3\bin\Debug\CompGraph3.exe
+C:\Users\Root\Documents\Labs\MP\CompGraph3\bin\Debug\CompGraph3.pdb
+C:\Users\Root\Documents\Labs\MP\CompGraph3\obj\Debug\CompGraph3.csproj.AssemblyReference.cache
+C:\Users\Root\Documents\Labs\MP\CompGraph3\obj\Debug\CompGraph3.Form1.resources
+C:\Users\Root\Documents\Labs\MP\CompGraph3\obj\Debug\CompGraph3.Properties.Resources.resources
+C:\Users\Root\Documents\Labs\MP\CompGraph3\obj\Debug\CompGraph3.csproj.GenerateResource.cache
+C:\Users\Root\Documents\Labs\MP\CompGraph3\obj\Debug\CompGraph3.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\Labs\MP\CompGraph3\obj\Debug\CompGraph3.exe
+C:\Users\Root\Documents\Labs\MP\CompGraph3\obj\Debug\CompGraph3.pdb
